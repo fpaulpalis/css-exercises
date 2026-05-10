@@ -10,14 +10,13 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-
 /*
 Second element
 - blue text
 - font size of 36 px
 */
 
-#number2 {
+#two {
     color: #0000FFFF;
     font-size: 36px;
 }
@@ -28,7 +27,7 @@ Addition for all odd numbered elements.
 font-size: 24px;
 */
 
-.odd.number3 {
+.adjust-font-size {
     font-size: 24px;
 }
 
@@ -39,7 +38,7 @@ font-size: 24px
 font-weight: bold
 */
 
-#number4 {
+#four {
     background-color: #90EE90FF;
     font-size: 24px;
     font-weight: bold;
