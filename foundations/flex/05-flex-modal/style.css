@@ -20,7 +20,7 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 12px;
+  padding: 10px;
 }
 
 .icon {
@@ -71,21 +71,21 @@ button.cancel {
 }
 
 .header{
-  margin-left: 40px;
   font-weight: bolder;
   font-size: large;
-  align-self: center;
 }
 
 .top-box {
   display: flex;
   gap: 16px;
+  align-items: center;
 }
 
 .text {
-  margin-left: 40px;
+  margin-left: 58px;
+  margin-bottom:  10px;
 }
 
 .button-container{
-  margin-left: 40px;
+  margin-left: 58px;
 }
